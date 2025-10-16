@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Virtual environments and env files
+.venv/
+venv/
+.env
+.env.*
+
+# Streamlit
+.streamlit/
+
+# Tool caches
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+.coverage
+
+# Editors/IDE
+.vscode/
+.idea/
+
